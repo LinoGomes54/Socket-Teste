@@ -23,6 +23,3 @@ TCP e UDP são protocolos de transporte que desempenham um papel fundamental na 
 
 ![](https://i.pinimg.com/736x/c1/29/e5/c129e54930f75f5322623853e5d27362.jpg)
 
-### Teste de Recebimento
-
-![](https://i.pinimg.com/736x/80/a1/d2/80a1d240f0e994860bbebc3aed4b9bf8.jpg)
